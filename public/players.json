@@ -1,0 +1,110 @@
+[
+  {
+    "playerId": 1,
+    "playerName": "Shakib Al Hasan",
+    "playerImg": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTCbjTIedmQdn-KwXhJI2n1cywINB54Nd0gRHJoxd1UCh8m2NWk28NBvuUSuAJEk10SO9Nee0vwotSGiLQ",
+    "PlayerCountry": "Bangladesh",
+    "playerRole": "All-Rounder",
+    "rating": 9.5,
+    "price": 72897
+  },
+  {
+    "playerId": 2,
+    "playerName": "Tamim Iqbal",
+    "playerImg": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSD_MPLrHtX25COWVOemiOMhPXD34lvwuF7GYmEgVgDxVWdyn6NA0hhhGryqnk_EUPedAENiaEXDy2rhxP2Zd6vPR791U-JPGj6JmBFIA",
+    "PlayerCountry": "Bangladesh",
+    "playerRole": "Batter",
+    "rating": 8.8,
+    "price": 45561
+  },
+  {
+    "playerId": 3,
+    "playerName": "Mushfiqur Rahim",
+    "playerImg": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQM3jA5BBcnu7adqlv7rnGDrcSjqNdgyEy8qwb1j3R1X29bxz7bv9RbjHwYYRmUXyJT9HYy0RTWi8Z3H9c",
+    "PlayerCountry": "Bangladesh",
+    "playerRole": "Wicketkeeper-Batter",
+    "rating": 9.0,
+    "price": 72897
+  },
+  {
+    "playerId": 4,
+    "playerName": "Mustafizur Rahman",
+    "playerImg": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcRZNLEGzTPxANaHseZsiR7k81Qi5S2fcSGUd2of0xf9UFvTg87BWwhXFF2EO9GR0z4lwrZ5LM9uBNA4p3Q",
+    "PlayerCountry": "Bangladesh",
+    "playerRole": "Bowler",
+    "rating": 9.2,
+    "price": 60000
+  },
+  {
+    "playerId": 5,
+    "playerName": "Taskin Ahmed",
+    "playerImg": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcRNYEGaRLmhdRQ7clp01s3v8x9_QRF13LEVzACW6s4HL4OMCx9E17C0xeC_8eDFsWcoFpTx6xSuLy4I4wA",
+    "PlayerCountry": "Bangladesh",
+    "playerRole": "Bowler",
+    "rating": 8.9,
+    "price": 50000
+  },
+  {
+    "playerId": 6,
+    "playerName": "Mehidy Hasan Miraz",
+    "playerImg": "https://i0.wp.com/crictoday.com/wp-content/uploads/2023/09/Mehidy-Hasan-Miraz-3.jpg?fit=1200%2C675&ssl=1",
+    "PlayerCountry": "Bangladesh",
+    "playerRole": "All-Rounder",
+    "rating": 9.1,
+    "price": 60000
+  },
+  {
+    "playerId": 7,
+    "playerName": "Liton Das",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9v-vYHvO9f5EkSygzOwMoP164_7uMv-HmU4QutVt60CPDwcHeIyk5AdiadF012fVFtxNXDaNxFLlL6y8kO4SmUrFF7DmvwsBvrFBMeA",
+    "PlayerCountry": "Bangladesh",
+    "playerRole": "Wicketkeeper-Batter",
+    "rating": 8.5,
+    "price": 45561
+  },
+  {
+    "playerId": 8,
+    "playerName": "Mahmudullah Riyad",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSgCocE47jDiqaA0RyOHd1EBIwinzAh_z8RS3JnfJF_U-X-JqHtWjTp3Z0JFa1ECzPQX_AfYsD7q7ufxZo",
+    "PlayerCountry": "Bangladesh",
+    "playerRole": "All-Rounder",
+    "rating": 8.7,
+    "price": 45561
+  },
+  {
+    "playerId": 9,
+    "playerName": "Najmul Hossain Shanto",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtvsIvYRHvdrEIOL53XNSfRBFOw6crkd9_Og&s",
+    "PlayerCountry": "Bangladesh",
+    "playerRole": "Batter",
+    "rating": 8.6,
+    "price": 30000
+  },
+  {
+    "playerId": 10,
+    "playerName": "Dawid Malan",
+    "playerImg": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQeT6JiJg2KIBmzR6VluESQnS7nHKdZtq2KBiq6bA655PMn51oPO_lCewk-1ETjbhRqmX9z7mrKyI72oY0",
+    "PlayerCountry": "England",
+    "playerRole": "Batter",
+    "rating": 8.5,
+    "price": 80000
+  },
+  {
+    "playerId": 11,
+    "playerName": "Kyle Mayers",
+    "playerImg": "https://www.lucknowsupergiants.in/static-assets/waf-images/d7/d9/a9/16-9/opRgFJg8wZ.jpg?v=1.07&w=600",
+    "PlayerCountry": "West Indies",
+    "playerRole": "All-Rounder",
+    "rating": 8.7,
+    "price": 80000
+  },
+  {
+    "playerId": 12,
+    "playerName": "Mohammad Nabi",
+    "playerImg": "https://media.crictracker.com/media/featureimage/2021/10/Mohammad-Nabi-.jpg",
+    "PlayerCountry": "Afghanistan",
+    "playerRole": "All-Rounder",
+    "rating": 8.6,
+    "price": 60000
+  }
+]
